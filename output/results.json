@@ -1,0 +1,1710 @@
+{
+  "ranked_candidates": [
+    {
+      "filename": "candidate_35.pdf",
+      "name": "Prathamesh     Bengaluru Karnataka",
+      "email": "prathameshpatil330@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 77,
+      "score_breakdown": {
+        "ai_project_depth": 34,
+        "python_backend": 25,
+        "cloud_fullstack": 15,
+        "github": 0,
+        "engineering_depth": 3
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "LLM",
+        "AI",
+        "RAG",
+        "LangGraph",
+        "embeddings",
+        "multi-agent",
+        "agentic",
+        "PyTorch",
+        "TensorFlow"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI evidence demonstrated in 4 project(s)",
+        "AI project depth: multi-agent",
+        "AI project depth: embeddings",
+        "AI signals: LLM, AI, RAG, LangGraph, embeddings, multi-agent",
+        "Python evidence: Python, FastAPI",
+        "Backend evidence: postgres, redis, fastapi, postgresql, python",
+        "Cloud/full-stack evidence: deployed, deployment, next.js, docker, react",
+        "Engineering practices: caching, testing, observability",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 1
+    },
+    {
+      "filename": "candidate_38.pdf",
+      "name": "PAVANI A",
+      "email": "pavani10112004@gmail.com",
+      "github_url": "https://github.com/Pavani-A",
+      "eligible": true,
+      "total_score": 70,
+      "score_breakdown": {
+        "ai_project_depth": 23,
+        "python_backend": 30,
+        "cloud_fullstack": 9,
+        "github": 8,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Flask",
+        "Django",
+        "Pandas",
+        "NumPy",
+        "AI",
+        "TensorFlow"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "GitHub user 'Pavani-A' has 13 public repositories. Recent activity score: 4/5. Maintained/relevant repository score: 4/5.",
+      "strengths": [
+        "AI evidence demonstrated in 2 project(s)",
+        "AI project depth: evaluation",
+        "AI signals: AI, TensorFlow",
+        "Python evidence: Python, FastAPI, Flask, Django, Pandas, NumPy",
+        "Backend evidence: flask, postgres, fastapi, django, postgresql",
+        "Cloud/full-stack evidence: next.js, docker, react",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 2
+    },
+    {
+      "filename": "candidate_08.pdf",
+      "name": "Arjun Kumar",
+      "email": "roy.prajapat.143@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 69,
+      "score_breakdown": {
+        "ai_project_depth": 32,
+        "python_backend": 30,
+        "cloud_fullstack": 6,
+        "github": 0,
+        "engineering_depth": 1
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Django",
+        "AI",
+        "RAG",
+        "LangChain",
+        "LangGraph",
+        "embeddings",
+        "agentic",
+        "TensorFlow"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI evidence demonstrated in 5 project(s)",
+        "AI project depth: embeddings",
+        "AI signals: AI, RAG, LangChain, LangGraph, embeddings, agentic",
+        "Python evidence: Python, FastAPI, Django",
+        "Backend evidence: postgres, fastapi, django, postgresql, python",
+        "Cloud/full-stack evidence: next.js, react",
+        "Engineering practices: queue",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 3
+    },
+    {
+      "filename": "candidate_47.pdf",
+      "name": "Kiran Naregal",
+      "email": "kirnaregal7@gmail.com",
+      "github_url": "https://github.com/kiran-naregal",
+      "eligible": true,
+      "total_score": 68,
+      "score_breakdown": {
+        "ai_project_depth": 32,
+        "python_backend": 23,
+        "cloud_fullstack": 6,
+        "github": 5,
+        "engineering_depth": 2
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Pandas",
+        "LLM",
+        "AI",
+        "LangChain",
+        "LangGraph",
+        "multi-agent",
+        "agents",
+        "OpenAI"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "GitHub user 'kiran-naregal' has 8 public repositories. Recent activity score: 2/5. Maintained/relevant repository score: 3/5.",
+      "strengths": [
+        "AI evidence demonstrated in 6 project(s)",
+        "AI project depth: multi-agent",
+        "AI signals: LLM, AI, LangChain, LangGraph, multi-agent, agents",
+        "Python evidence: Python, FastAPI, Pandas",
+        "Backend evidence: fastapi, python",
+        "Cloud/full-stack evidence: docker, react",
+        "Engineering practices: logging, architecture",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 4
+    },
+    {
+      "filename": "candidate_50.pdf",
+      "name": "Nevil Jasmin Mehta",
+      "email": "nevilmehta5@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 68,
+      "score_breakdown": {
+        "ai_project_depth": 31,
+        "python_backend": 30,
+        "cloud_fullstack": 6,
+        "github": 0,
+        "engineering_depth": 1
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Flask",
+        "Django",
+        "Pandas",
+        "NumPy",
+        "LLM",
+        "AI",
+        "RAG",
+        "embeddings"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI evidence demonstrated in 5 project(s)",
+        "AI project depth: retrieval",
+        "AI project depth: embeddings",
+        "AI signals: LLM, AI, RAG, embeddings",
+        "Python evidence: Python, FastAPI, Flask, Django, Pandas, NumPy",
+        "Backend evidence: flask, postgres, redis, fastapi, django",
+        "Cloud/full-stack evidence: docker, react",
+        "Engineering practices: architecture",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 5
+    },
+    {
+      "filename": "candidate_22.pdf",
+      "name": "PRAJWAL A S",
+      "email": "prajwalas8999@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 67,
+      "score_breakdown": {
+        "ai_project_depth": 34,
+        "python_backend": 25,
+        "cloud_fullstack": 6,
+        "github": 0,
+        "engineering_depth": 2
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "LLM",
+        "AI",
+        "RAG",
+        "LangChain",
+        "LangGraph",
+        "embeddings",
+        "tool-calling",
+        "multi-agent",
+        "agents"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI evidence demonstrated in 11 project(s)",
+        "AI project depth: tool-calling",
+        "AI project depth: multi-agent",
+        "AI signals: LLM, AI, RAG, LangChain, LangGraph, embeddings",
+        "Python evidence: Python, FastAPI",
+        "Backend evidence: postgres, fastapi, postgresql, python",
+        "Cloud/full-stack evidence: deployed, react",
+        "Engineering practices: architecture, monitoring",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 6
+    },
+    {
+      "filename": "candidate_28.pdf",
+      "name": "Sumaiya Sultana Shaik",
+      "email": "sultanasumaiya623@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 66,
+      "score_breakdown": {
+        "ai_project_depth": 30,
+        "python_backend": 25,
+        "cloud_fullstack": 9,
+        "github": 0,
+        "engineering_depth": 2
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "LLM",
+        "AI",
+        "RAG",
+        "LangChain",
+        "LangGraph",
+        "agents",
+        "agentic"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI evidence demonstrated in 7 project(s)",
+        "AI signals: LLM, AI, RAG, LangChain, LangGraph, agents",
+        "Python evidence: Python, FastAPI",
+        "Backend evidence: postgres, fastapi, postgresql, python",
+        "Cloud/full-stack evidence: gcp, docker, react",
+        "Engineering practices: architecture, integration test",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 7
+    },
+    {
+      "filename": "candidate_33.pdf",
+      "name": "Vaibhav Wakde",
+      "email": "vaibhavwakde266@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 66,
+      "score_breakdown": {
+        "ai_project_depth": 34,
+        "python_backend": 28,
+        "cloud_fullstack": 3,
+        "github": 0,
+        "engineering_depth": 1
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Flask",
+        "Pandas",
+        "NumPy",
+        "LLM",
+        "AI",
+        "RAG",
+        "LangChain",
+        "LangGraph",
+        "LlamaIndex",
+        "tool calling",
+        "agentic",
+        "OpenAI"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI evidence demonstrated in 4 project(s)",
+        "AI project depth: tool calling",
+        "AI project depth: workflow",
+        "AI signals: LLM, AI, RAG, LangChain, LangGraph, LlamaIndex",
+        "Python evidence: Python, FastAPI, Flask, Pandas, NumPy",
+        "Backend evidence: flask, fastapi, python",
+        "Cloud/full-stack evidence: docker",
+        "Engineering practices: logging",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 8
+    },
+    {
+      "filename": "candidate_13.pdf",
+      "name": "Yash Maini",
+      "email": "mainiyash2@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 65,
+      "score_breakdown": {
+        "ai_project_depth": 30,
+        "python_backend": 29,
+        "cloud_fullstack": 6,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Flask",
+        "Pandas",
+        "NumPy",
+        "AI",
+        "RAG",
+        "LangChain",
+        "LangGraph",
+        "embeddings",
+        "tool calling",
+        "multi-agent",
+        "agents",
+        "PyTorch",
+        "TensorFlow"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI evidence demonstrated in 8 project(s)",
+        "AI signals: AI, RAG, LangChain, LangGraph, embeddings, tool calling",
+        "Python evidence: Python, FastAPI, Flask, Pandas, NumPy",
+        "Backend evidence: flask, postgres, fastapi, postgresql, python",
+        "Cloud/full-stack evidence: gcp, docker",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 9
+    },
+    {
+      "filename": "candidate_16.pdf",
+      "name": "PRIYANSHU KUMAR",
+      "email": "krpriyanshu2805@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 65,
+      "score_breakdown": {
+        "ai_project_depth": 38,
+        "python_backend": 24,
+        "cloud_fullstack": 3,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "LLM",
+        "AI",
+        "RAG",
+        "LangChain",
+        "LangGraph",
+        "embeddings",
+        "tool calling",
+        "agentic"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI evidence demonstrated in 7 project(s)",
+        "AI project depth: workflow",
+        "AI project depth: tool calling",
+        "AI project depth: embeddings",
+        "AI project depth: workflow",
+        "AI signals: LLM, AI, RAG, LangChain, LangGraph, embeddings",
+        "Python evidence: Python, FastAPI",
+        "Backend evidence: postgres, fastapi, postgresql, python, async",
+        "Cloud/full-stack evidence: react",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 10
+    },
+    {
+      "filename": "candidate_19.pdf",
+      "name": "LinkedIn Mobile",
+      "email": "pvjayavardhan6@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 64,
+      "score_breakdown": {
+        "ai_project_depth": 34,
+        "python_backend": 20,
+        "cloud_fullstack": 9,
+        "github": 0,
+        "engineering_depth": 1
+      },
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "LLM",
+        "AI",
+        "Artificial Intelligence",
+        "RAG",
+        "agents",
+        "PyTorch",
+        "TensorFlow"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI evidence demonstrated in 4 project(s)",
+        "AI project depth: retrieval",
+        "AI project depth: retrieval",
+        "AI signals: LLM, AI, Artificial Intelligence, RAG, agents, PyTorch",
+        "Python evidence: Python, Flask",
+        "Backend evidence: flask, python",
+        "Cloud/full-stack evidence: deployed, docker, react",
+        "Engineering practices: logging",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 11
+    },
+    {
+      "filename": "candidate_40.pdf",
+      "name": "RAJ THUMAR",
+      "email": "thumarraj999@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 64,
+      "score_breakdown": {
+        "ai_project_depth": 31,
+        "python_backend": 25,
+        "cloud_fullstack": 6,
+        "github": 0,
+        "engineering_depth": 2
+      },
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "LLM",
+        "AI",
+        "RAG",
+        "OpenAI"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI evidence demonstrated in 2 project(s)",
+        "AI project depth: orchestration, workflow",
+        "AI signals: LLM, AI, RAG, OpenAI",
+        "Python evidence: Python, Flask",
+        "Backend evidence: flask, postgres, redis, postgresql, python",
+        "Cloud/full-stack evidence: docker, react",
+        "Engineering practices: architecture, monitoring",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 12
+    },
+    {
+      "filename": "candidate_17.pdf",
+      "name": "Gourab Das",
+      "email": "gourabdas1307@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 63,
+      "score_breakdown": {
+        "ai_project_depth": 27,
+        "python_backend": 27,
+        "cloud_fullstack": 9,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Flask",
+        "Django",
+        "AI",
+        "RAG",
+        "LangChain",
+        "LangGraph"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI evidence demonstrated in 1 project(s)",
+        "AI signals: AI, RAG, LangChain, LangGraph",
+        "Python evidence: Python, FastAPI, Flask, Django",
+        "Backend evidence: flask, postgres, redis, fastapi, django",
+        "Cloud/full-stack evidence: deployment, docker, react",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 13
+    },
+    {
+      "filename": "candidate_07.pdf",
+      "name": "Jyandeep Baishya",
+      "email": "craftzyan@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 62,
+      "score_breakdown": {
+        "ai_project_depth": 34,
+        "python_backend": 24,
+        "cloud_fullstack": 3,
+        "github": 0,
+        "engineering_depth": 1
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "LLM",
+        "AI",
+        "RAG",
+        "LangChain",
+        "LangGraph",
+        "tool-calling",
+        "multi-agent",
+        "agents",
+        "agentic"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI evidence demonstrated in 5 project(s)",
+        "AI project depth: multi-agent",
+        "AI project depth: tool-calling",
+        "AI signals: LLM, AI, RAG, LangChain, LangGraph, tool-calling",
+        "Python evidence: Python, FastAPI",
+        "Backend evidence: redis, fastapi, python",
+        "Cloud/full-stack evidence: react",
+        "Engineering practices: cache",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 14
+    },
+    {
+      "filename": "candidate_21.pdf",
+      "name": "MANOJ KUMAR K R",
+      "email": "manojkumar.k.r0904@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 62,
+      "score_breakdown": {
+        "ai_project_depth": 29,
+        "python_backend": 26,
+        "cloud_fullstack": 6,
+        "github": 0,
+        "engineering_depth": 1
+      },
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "Pandas",
+        "NumPy",
+        "AI",
+        "RAG",
+        "PyTorch",
+        "TensorFlow"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI evidence demonstrated in 5 project(s)",
+        "AI project depth: retrieval",
+        "AI signals: AI, RAG, PyTorch, TensorFlow",
+        "Python evidence: Python, Flask, Pandas, NumPy",
+        "Backend evidence: flask, python",
+        "Cloud/full-stack evidence: deployed, react",
+        "Engineering practices: testing",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 15
+    },
+    {
+      "filename": "candidate_36.pdf",
+      "name": "Saif Ali Nagori",
+      "email": "saifalinagori78@gmail.com",
+      "github_url": "https://github.com/Nagorisaifali",
+      "eligible": true,
+      "total_score": 62,
+      "score_breakdown": {
+        "ai_project_depth": 29,
+        "python_backend": 26,
+        "cloud_fullstack": 3,
+        "github": 4,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Flask",
+        "LLM",
+        "AI",
+        "Artificial Intelligence",
+        "RAG"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "GitHub user 'Nagorisaifali' has 26 public repositories. Recent activity score: 0/5. Maintained/relevant repository score: 4/5.",
+      "strengths": [
+        "AI evidence demonstrated in 7 project(s)",
+        "AI project depth: retrieval",
+        "AI signals: LLM, AI, Artificial Intelligence, RAG",
+        "Python evidence: Python, FastAPI, Flask",
+        "Backend evidence: flask, fastapi, python",
+        "Cloud/full-stack evidence: react",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 16
+    },
+    {
+      "filename": "candidate_26.pdf",
+      "name": "Thejeshwaar Paasila",
+      "email": "thejeshwaarp@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 59,
+      "score_breakdown": {
+        "ai_project_depth": 27,
+        "python_backend": 25,
+        "cloud_fullstack": 6,
+        "github": 0,
+        "engineering_depth": 1
+      },
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "LLM",
+        "AI",
+        "RAG",
+        "OpenAI"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI evidence demonstrated in 13 project(s)",
+        "AI signals: LLM, AI, RAG, OpenAI",
+        "Python evidence: Python, Flask",
+        "Backend evidence: flask, postgres, postgresql, python",
+        "Cloud/full-stack evidence: docker, react",
+        "Engineering practices: architecture",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 17
+    },
+    {
+      "filename": "candidate_09.pdf",
+      "name": "KRISHAN KANT",
+      "email": "krishankantptu@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 58,
+      "score_breakdown": {
+        "ai_project_depth": 32,
+        "python_backend": 20,
+        "cloud_fullstack": 6,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "LLM",
+        "AI",
+        "RAG",
+        "LangChain",
+        "vector search",
+        "OpenAI"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI evidence demonstrated in 4 project(s)",
+        "AI project depth: retrieval",
+        "AI signals: LLM, AI, RAG, LangChain, vector search, OpenAI",
+        "Python evidence: Python",
+        "Backend evidence: postgres, redis, postgresql, python, async",
+        "Cloud/full-stack evidence: docker, react",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 18
+    },
+    {
+      "filename": "candidate_44.pdf",
+      "name": "Vivek Chimnani",
+      "email": "vivekchimnani4231@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 58,
+      "score_breakdown": {
+        "ai_project_depth": 26,
+        "python_backend": 22,
+        "cloud_fullstack": 9,
+        "github": 0,
+        "engineering_depth": 1
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "LLM",
+        "AI",
+        "LangGraph"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI evidence demonstrated in 1 project(s)",
+        "AI project depth: workflow",
+        "AI signals: LLM, AI, LangGraph",
+        "Python evidence: Python, FastAPI",
+        "Backend evidence: postgres, redis, fastapi, postgresql, python",
+        "Cloud/full-stack evidence: next.js, docker, react",
+        "Engineering practices: architecture",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 19
+    },
+    {
+      "filename": "candidate_04.pdf",
+      "name": "Yuvaraj R",
+      "email": "yuvi.2003kce@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 57,
+      "score_breakdown": {
+        "ai_project_depth": 18,
+        "python_backend": 29,
+        "cloud_fullstack": 9,
+        "github": 0,
+        "engineering_depth": 1
+      },
+      "matched_skills": [
+        "Python",
+        "Django",
+        "Django REST Framework",
+        "Pandas",
+        "NumPy",
+        "AI"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI evidence demonstrated in 3 project(s)",
+        "AI signals: AI",
+        "Python evidence: Python, Django, Django REST Framework, Pandas, NumPy",
+        "Backend evidence: postgres, django, postgresql, python",
+        "Cloud/full-stack evidence: deployed, deployment, docker",
+        "Engineering practices: monitoring",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 20
+    },
+    {
+      "filename": "candidate_10.pdf",
+      "name": "ABHINAV MISHRA",
+      "email": "abhinavmishra3322@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 56,
+      "score_breakdown": {
+        "ai_project_depth": 30,
+        "python_backend": 20,
+        "cloud_fullstack": 6,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "AI",
+        "RAG",
+        "LangGraph",
+        "agentic",
+        "OpenAI"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI evidence demonstrated in 6 project(s)",
+        "AI signals: AI, RAG, LangGraph, agentic, OpenAI",
+        "Python evidence: Python",
+        "Backend evidence: postgres, redis, postgresql, python",
+        "Cloud/full-stack evidence: next.js, react",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 21
+    },
+    {
+      "filename": "candidate_12.pdf",
+      "name": "SHUBHANSHU NAVADIYA",
+      "email": "subhnavadiya@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 56,
+      "score_breakdown": {
+        "ai_project_depth": 30,
+        "python_backend": 26,
+        "cloud_fullstack": 0,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Pandas",
+        "NumPy",
+        "AI",
+        "RAG",
+        "LangChain",
+        "LlamaIndex",
+        "embeddings",
+        "agents",
+        "PyTorch",
+        "OpenAI"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI evidence demonstrated in 3 project(s)",
+        "AI signals: AI, RAG, LangChain, LlamaIndex, embeddings, agents",
+        "Python evidence: Python, FastAPI, Pandas, NumPy",
+        "Backend evidence: fastapi, python",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 22
+    },
+    {
+      "filename": "candidate_23.pdf",
+      "name": "ANNISHA S",
+      "email": "annishasaravanan83@gmail.com",
+      "github_url": "https://github.com/annishasaravan",
+      "eligible": true,
+      "total_score": 55,
+      "score_breakdown": {
+        "ai_project_depth": 27,
+        "python_backend": 25,
+        "cloud_fullstack": 3,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "LLM",
+        "AI",
+        "LangGraph",
+        "OpenAI"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "GitHub profile could not be accessed",
+      "strengths": [
+        "AI evidence demonstrated in 6 project(s)",
+        "AI signals: LLM, AI, LangGraph, OpenAI",
+        "Python evidence: Python, FastAPI",
+        "Backend evidence: postgres, fastapi, postgresql, python",
+        "Cloud/full-stack evidence: react",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 23
+    },
+    {
+      "filename": "candidate_24.pdf",
+      "name": "DORNIPADU KARTHIKA CHAITRIKA",
+      "email": "dornipadukarthi@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 50,
+      "score_breakdown": {
+        "ai_project_depth": 24,
+        "python_backend": 26,
+        "cloud_fullstack": 0,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "Django",
+        "AI",
+        "RAG",
+        "agentic"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI evidence demonstrated in 1 project(s)",
+        "AI signals: AI, RAG, agentic",
+        "Python evidence: Python, Flask, Django",
+        "Backend evidence: flask, django, python",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 24
+    },
+    {
+      "filename": "candidate_25.pdf",
+      "name": "Atul Kumar",
+      "email": "atulofficial02@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 49,
+      "score_breakdown": {
+        "ai_project_depth": 18,
+        "python_backend": 25,
+        "cloud_fullstack": 6,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "Pandas",
+        "NumPy",
+        "AI"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI evidence demonstrated in 3 project(s)",
+        "AI signals: AI",
+        "Python evidence: Python, Flask, Pandas, NumPy",
+        "Backend evidence: flask, python",
+        "Cloud/full-stack evidence: deployed, deployment",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 25
+    },
+    {
+      "filename": "candidate_45.pdf",
+      "name": "Parshuram Kumar",
+      "email": "parshuramkumarofficial725@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 49,
+      "score_breakdown": {
+        "ai_project_depth": 16,
+        "python_backend": 27,
+        "cloud_fullstack": 6,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "Django",
+        "AI",
+        "RAG"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI evidence demonstrated in 1 project(s)",
+        "AI signals: AI, RAG",
+        "Python evidence: Python, Flask, Django",
+        "Backend evidence: flask, redis, django, python, async",
+        "Cloud/full-stack evidence: docker, react",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [
+        "AI evidence appears thin or wrapper/API focused"
+      ],
+      "rank": 26
+    },
+    {
+      "filename": "candidate_41.pdf",
+      "name": "Hari Shanker Sharma",
+      "email": "harishankersharma648@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 46,
+      "score_breakdown": {
+        "ai_project_depth": 15,
+        "python_backend": 25,
+        "cloud_fullstack": 6,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Pandas",
+        "NumPy",
+        "AI",
+        "LangChain",
+        "LangGraph",
+        "embeddings",
+        "agents"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI signals: AI, LangChain, LangGraph, embeddings, agents",
+        "Python evidence: Python, FastAPI, Pandas, NumPy",
+        "Backend evidence: postgres, redis, fastapi, postgresql, python",
+        "Cloud/full-stack evidence: docker, react",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 27
+    },
+    {
+      "filename": "candidate_03.pdf",
+      "name": "Agam Jain",
+      "email": "jainagam4@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 44,
+      "score_breakdown": {
+        "ai_project_depth": 18,
+        "python_backend": 19,
+        "cloud_fullstack": 6,
+        "github": 0,
+        "engineering_depth": 1
+      },
+      "matched_skills": [
+        "Python",
+        "AI"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI evidence demonstrated in 1 project(s)",
+        "AI signals: AI",
+        "Python evidence: Python",
+        "Backend evidence: postgres, redis, postgresql, python",
+        "Cloud/full-stack evidence: docker, react",
+        "Engineering practices: caching",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 28
+    },
+    {
+      "filename": "candidate_05.pdf",
+      "name": "VISHWAS BADIGER",
+      "email": "Vishwasbadiger240@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 44,
+      "score_breakdown": {
+        "ai_project_depth": 18,
+        "python_backend": 20,
+        "cloud_fullstack": 6,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "AI"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI evidence demonstrated in 2 project(s)",
+        "AI signals: AI",
+        "Python evidence: Python, Flask",
+        "Backend evidence: flask, python",
+        "Cloud/full-stack evidence: deployed, react",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 29
+    },
+    {
+      "filename": "candidate_06.pdf",
+      "name": "M SAI KUSHITH",
+      "email": "msaikushith718@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 44,
+      "score_breakdown": {
+        "ai_project_depth": 12,
+        "python_backend": 29,
+        "cloud_fullstack": 3,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Django",
+        "AI",
+        "RAG",
+        "LangChain",
+        "LangGraph"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI signals: AI, RAG, LangChain, LangGraph",
+        "Python evidence: Python, FastAPI, Django",
+        "Backend evidence: postgres, fastapi, django, postgresql, python",
+        "Cloud/full-stack evidence: react",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 30
+    },
+    {
+      "filename": "candidate_29.pdf",
+      "name": "VIKRAM MADHYASTA",
+      "email": "vikrammadyasta@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 44,
+      "score_breakdown": {
+        "ai_project_depth": 24,
+        "python_backend": 13,
+        "cloud_fullstack": 6,
+        "github": 0,
+        "engineering_depth": 1
+      },
+      "matched_skills": [
+        "Python",
+        "AI",
+        "RAG",
+        "OpenAI"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI evidence demonstrated in 7 project(s)",
+        "AI signals: AI, RAG, OpenAI",
+        "Python evidence: Python",
+        "Backend evidence: python",
+        "Cloud/full-stack evidence: deployment, docker",
+        "Engineering practices: monitoring",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 31
+    },
+    {
+      "filename": "candidate_49.pdf",
+      "name": "Aswin Raj R",
+      "email": "aswinrajr12@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 43,
+      "score_breakdown": {
+        "ai_project_depth": 30,
+        "python_backend": 10,
+        "cloud_fullstack": 3,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "LLM",
+        "AI",
+        "RAG",
+        "LangChain",
+        "TensorFlow"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI evidence demonstrated in 4 project(s)",
+        "AI signals: LLM, AI, RAG, LangChain, TensorFlow",
+        "Python evidence: Python",
+        "Backend evidence: python",
+        "Cloud/full-stack evidence: react",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 32
+    },
+    {
+      "filename": "candidate_14.pdf",
+      "name": "JAYA NANDI",
+      "email": "jaya85300@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 41,
+      "score_breakdown": {
+        "ai_project_depth": 18,
+        "python_backend": 20,
+        "cloud_fullstack": 3,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "Pandas",
+        "NumPy",
+        "AI"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI evidence demonstrated in 2 project(s)",
+        "AI signals: AI",
+        "Python evidence: Python, Pandas, NumPy",
+        "Backend evidence: python",
+        "Cloud/full-stack evidence: react",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 33
+    },
+    {
+      "filename": "candidate_20.pdf",
+      "name": "PRIYA R",
+      "email": "priyaraguraman29@gmail.com",
+      "github_url": "https://github.com/Priya291102",
+      "eligible": true,
+      "total_score": 40,
+      "score_breakdown": {
+        "ai_project_depth": 24,
+        "python_backend": 10,
+        "cloud_fullstack": 3,
+        "github": 2,
+        "engineering_depth": 1
+      },
+      "matched_skills": [
+        "Python",
+        "AI",
+        "Artificial Intelligence",
+        "RAG"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "GitHub user 'Priya291102' has 6 public repositories. Recent activity score: 0/5. Maintained/relevant repository score: 2/5.",
+      "strengths": [
+        "AI evidence demonstrated in 10 project(s)",
+        "AI signals: AI, Artificial Intelligence, RAG",
+        "Python evidence: Python",
+        "Backend evidence: python",
+        "Cloud/full-stack evidence: react",
+        "Engineering practices: monitoring",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 34
+    },
+    {
+      "filename": "candidate_30.pdf",
+      "name": "V Sree Raghu Vardhan",
+      "email": "vardhanvsr2004@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 38,
+      "score_breakdown": {
+        "ai_project_depth": 15,
+        "python_backend": 20,
+        "cloud_fullstack": 3,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "AI",
+        "RAG",
+        "LangChain",
+        "LangGraph",
+        "vector search",
+        "agents",
+        "OpenAI"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI signals: AI, RAG, LangChain, LangGraph, vector search, agents",
+        "Python evidence: Python, FastAPI",
+        "Backend evidence: postgres, redis, fastapi, postgresql, python",
+        "Cloud/full-stack evidence: docker",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 35
+    },
+    {
+      "filename": "candidate_39.pdf",
+      "name": "Vivek Shekhawat",
+      "email": "vivekshekhawatofficial1592002@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 38,
+      "score_breakdown": {
+        "ai_project_depth": 15,
+        "python_backend": 20,
+        "cloud_fullstack": 3,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "Django",
+        "AI",
+        "RAG",
+        "LangChain",
+        "LangGraph",
+        "vector search"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI signals: AI, RAG, LangChain, LangGraph, vector search",
+        "Python evidence: Python, Django",
+        "Backend evidence: postgres, django, postgresql, python",
+        "Cloud/full-stack evidence: react",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 36
+    },
+    {
+      "filename": "candidate_43.pdf",
+      "name": "ARUNIMA SAHA",
+      "email": "arunimasaha11@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 38,
+      "score_breakdown": {
+        "ai_project_depth": 15,
+        "python_backend": 20,
+        "cloud_fullstack": 3,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "LLM",
+        "AI",
+        "RAG",
+        "LangChain",
+        "LangGraph",
+        "embeddings",
+        "vector search",
+        "tool calling",
+        "multi-agent",
+        "agents",
+        "agentic",
+        "OpenAI"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI signals: LLM, AI, RAG, LangChain, LangGraph, embeddings",
+        "Python evidence: Python, FastAPI",
+        "Backend evidence: postgres, fastapi, postgresql, python",
+        "Cloud/full-stack evidence: docker",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 37
+    },
+    {
+      "filename": "candidate_48.pdf",
+      "name": "NIDHI KM",
+      "email": "nidhikmgowda24@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 38,
+      "score_breakdown": {
+        "ai_project_depth": 18,
+        "python_backend": 10,
+        "cloud_fullstack": 9,
+        "github": 0,
+        "engineering_depth": 1
+      },
+      "matched_skills": [
+        "Python",
+        "TensorFlow"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI evidence demonstrated in 1 project(s)",
+        "AI signals: TensorFlow",
+        "Python evidence: Python",
+        "Backend evidence: python",
+        "Cloud/full-stack evidence: deployed, deployment, react",
+        "Engineering practices: architecture",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 38
+    },
+    {
+      "filename": "candidate_37.pdf",
+      "name": "Aditi Kala",
+      "email": "aditi25.kala@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 37,
+      "score_breakdown": {
+        "ai_project_depth": 6,
+        "python_backend": 25,
+        "cloud_fullstack": 6,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Flask",
+        "PyTorch",
+        "TensorFlow"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI signals: PyTorch, TensorFlow",
+        "Python evidence: Python, FastAPI, Flask",
+        "Backend evidence: flask, postgres, fastapi, postgresql, python",
+        "Cloud/full-stack evidence: docker, react",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 39
+    },
+    {
+      "filename": "candidate_27.pdf",
+      "name": "Gayathri Palraj",
+      "email": "gayathri.2842004@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 34,
+      "score_breakdown": {
+        "ai_project_depth": 21,
+        "python_backend": 8,
+        "cloud_fullstack": 3,
+        "github": 0,
+        "engineering_depth": 2
+      },
+      "matched_skills": [
+        "Python",
+        "AI",
+        "RAG"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI evidence demonstrated in 4 project(s)",
+        "AI signals: AI, RAG",
+        "Python evidence: Python",
+        "Backend evidence: python",
+        "Cloud/full-stack evidence: react",
+        "Engineering practices: error handling, architecture",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 40
+    },
+    {
+      "filename": "candidate_15.pdf",
+      "name": "HARSHA A",
+      "email": "harshaarun2608@gmail.com",
+      "github_url": null,
+      "eligible": true,
+      "total_score": 14,
+      "score_breakdown": {
+        "ai_project_depth": 3,
+        "python_backend": 8,
+        "cloud_fullstack": 3,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "AI"
+      ],
+      "project_summary": "Candidate demonstrated an AI project using Python, RAG and LangChain.",
+      "github_summary": "No GitHub profile provided",
+      "strengths": [
+        "AI signals: AI",
+        "Python evidence: Python",
+        "Backend evidence: python",
+        "Cloud/full-stack evidence: docker",
+        "Demonstrates meaningful AI project experience",
+        "Uses retrieval and embeddings"
+      ],
+      "concerns": [],
+      "rank": 41
+    }
+  ],
+  "rejected_candidates": [
+    {
+      "filename": "Aditya_MK_SE_1.pdf",
+      "name": "Aditya M K",
+      "eligible": false,
+      "matched_skills": [
+        "Python"
+      ],
+      "rejection_reasons": [
+        "Missing meaningful AI/LLM/RAG/agentic evidence"
+      ]
+    },
+    {
+      "filename": "Aditya_M_K__Dvops_2.pdf",
+      "name": "Aditya M K",
+      "eligible": false,
+      "matched_skills": [
+        "Python"
+      ],
+      "rejection_reasons": [
+        "Missing meaningful AI/LLM/RAG/agentic evidence"
+      ]
+    },
+    {
+      "filename": "candidate_01.pdf",
+      "name": "Kartikay Sinha",
+      "eligible": false,
+      "matched_skills": [
+        "AI"
+      ],
+      "rejection_reasons": [
+        "Missing Python evidence"
+      ]
+    },
+    {
+      "filename": "candidate_02.pdf",
+      "name": "SHIVAM RAJ",
+      "eligible": false,
+      "matched_skills": [
+        "AI",
+        "RAG"
+      ],
+      "rejection_reasons": [
+        "Missing Python evidence"
+      ]
+    },
+    {
+      "filename": "candidate_11.pdf",
+      "name": "MD AZIZUL ISLAM",
+      "eligible": false,
+      "matched_skills": [
+        "LLM",
+        "AI",
+        "RAG",
+        "embeddings",
+        "OpenAI"
+      ],
+      "rejection_reasons": [
+        "Missing Python evidence"
+      ]
+    },
+    {
+      "filename": "candidate_18.pdf",
+      "name": "Harshit Kumar Mishra",
+      "eligible": false,
+      "matched_skills": [
+        "AI",
+        "RAG"
+      ],
+      "rejection_reasons": [
+        "Missing Python evidence"
+      ]
+    },
+    {
+      "filename": "candidate_31.pdf",
+      "name": "Shreya Chauhan",
+      "eligible": false,
+      "matched_skills": [
+        "Python"
+      ],
+      "rejection_reasons": [
+        "Missing meaningful AI/LLM/RAG/agentic evidence"
+      ]
+    },
+    {
+      "filename": "candidate_32.pdf",
+      "name": "Mukul Pal",
+      "eligible": false,
+      "matched_skills": [
+        "LLM",
+        "AI",
+        "RAG",
+        "OpenAI"
+      ],
+      "rejection_reasons": [
+        "Missing Python evidence"
+      ]
+    },
+    {
+      "filename": "candidate_34.pdf",
+      "name": "PROFILE EXPERIENCE",
+      "eligible": false,
+      "matched_skills": [
+        "Python"
+      ],
+      "rejection_reasons": [
+        "Missing meaningful AI/LLM/RAG/agentic evidence"
+      ]
+    },
+    {
+      "filename": "candidate_42.pdf",
+      "name": "ANJALI PATIL",
+      "eligible": false,
+      "matched_skills": [
+        "AI"
+      ],
+      "rejection_reasons": [
+        "Missing Python evidence"
+      ]
+    },
+    {
+      "filename": "candidate_46.pdf",
+      "name": "AABHAR GUPTA",
+      "eligible": false,
+      "matched_skills": [],
+      "rejection_reasons": [
+        "Missing Python evidence",
+        "Missing meaningful AI/LLM/RAG/agentic evidence"
+      ]
+    }
+  ],
+  "batch_summary": {
+    "total_resumes": 52,
+    "successfully_parsed": 52,
+    "eligible": 41,
+    "rejected": 11,
+    "failed_unreadable": 0
+  }
+}
